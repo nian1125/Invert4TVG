@@ -1,3 +1,5 @@
+[https://huggingface.co/ekko126/Invert4TVG-3B](https://huggingface.co/ekko126/Invert4TVG-3B)
+
 ## 🔧 1. Environment Dependencies  
 
 | **Category** | **Version / Requirements**       |
