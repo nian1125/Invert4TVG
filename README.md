@@ -2,7 +2,7 @@
 <p align="center">
   <h1 align="center">🔄 Invert4TVG</h1>
   <p align="center">
-    <strong>Visual-Language Model Inversion for Text-to-Video Generation</strong>
+    <strong>A Temporal Video Grounding Framework with Inversion Tasks Preserving Action Understanding Ability</strong>
   </p>
   <p align="center">
     <a href="https://huggingface.co/ekko126/Invert4TVG-3B">
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/PyTorch-2.6+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     </a>
   </p>
   <p align="center">
@@ -127,7 +127,5 @@ python Invert4TVG/qwen-vl-finetune/qwenvl/inference/evaluate.py \
 
 
 
-<p align="center">
-  <strong>⭐ Star this repo if you find it helpful!</strong>
-</p>
+
 ```
